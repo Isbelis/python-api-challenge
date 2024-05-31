@@ -33,4 +33,4 @@ Linear regression scatter plot for Southern Hemisphere: Wind Speed (m/s) vs. Lat
 3. Used the Geoapify API to find the first hotel located within 10,000 metres of your coordinates for each city in the hotel_df DataFrame.
 4. Added the hotel name and the country as additional information in the hover message for each city in the map.
 
-### Note: The maps were saved, but I added to folder in png. file 
+### Note: The analyisis could be seen in WeatherPy FOLDER. Also, the maps were saved, but I added to this folder in png. file 
